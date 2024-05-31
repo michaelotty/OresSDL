@@ -1,7 +1,5 @@
 #include "GameRenderer.h"
 #include "Configs.h"
-#include "SDLRenderWrapper.h"
-
 
 #define ABOVE_UI_POS_Y WINDOW_HEIGHT / 100
 #define UI_BARS_WIDTH WINDOW_WIDTH / 10

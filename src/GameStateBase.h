@@ -1,4 +1,5 @@
 #pragma once
+
 #include "InputObserver.h"
 
 class GameStateBase : public InputObserver

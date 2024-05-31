@@ -1,11 +1,11 @@
 #include <iostream>
 #include <string>
 
-#include "SDLRenderWrapper.h"
-
 #include <SDL.h>
 #include <SDL_TTF.h>
 #include <SDL_image.h>
+
+#include "SDLRenderWrapper.h"
 
 SDLRenderWrapper::SDLRenderWrapper(const char* windowTitle, int windowWidth,
                                    int windowHeight, bool fullscreen)

@@ -2,9 +2,9 @@
 
 #include <map>
 
-#include "RenderWrapperBase.h"
-
 #include <SDL.h>
+
+#include "RenderWrapperBase.h"
 
 class SDLRenderWrapper : public RenderWrapperBase
 {

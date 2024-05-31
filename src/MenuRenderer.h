@@ -1,9 +1,10 @@
 #pragma once
-#include "Button.h"
-#include "RenderWrapperBase.h"
+
 #include <memory>
 #include <vector>
 
+#include "Button.h"
+#include "RenderWrapperBase.h"
 
 class MenuRenderer
 {

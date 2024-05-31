@@ -1,10 +1,11 @@
 #pragma once
+
+#include <memory>
+
 #include "Game.h"
 #include "GameStateBase.h"
 #include "LoseRenderer.h"
 #include "RenderWrapperBase.h"
-#include <memory>
-
 
 class Game;
 

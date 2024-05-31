@@ -1,19 +1,12 @@
 #pragma once
 
-#include "GameRenderer.h"
-
 #include <memory>
 
-#include "InputHandle.h"
-
 #include "GameStateBase.h"
-
 #include "InGameState.h"
-
-#include "MenuState.h"
-
+#include "InputHandle.h"
 #include "LoseState.h"
-
+#include "MenuState.h"
 #include "SaveData.h"
 
 class InGameState;

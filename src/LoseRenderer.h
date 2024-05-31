@@ -1,10 +1,11 @@
 #pragma once
-#include "Button.h"
-#include "RenderWrapperBase.h"
-#include "SaveData.h"
+
 #include <memory>
 #include <vector>
 
+#include "Button.h"
+#include "RenderWrapperBase.h"
+#include "SaveData.h"
 
 class LoseRenderer
 {

@@ -1,6 +1,8 @@
 #pragma once
-#include "BlockTile.h"
+
 #include <vector>
+
+#include "BlockTile.h"
 
 class BoardLogic
 {

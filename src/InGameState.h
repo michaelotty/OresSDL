@@ -1,10 +1,10 @@
 #pragma once
+
 #include "BoardLogic.h"
 #include "Configs.h"
 #include "Game.h"
 #include "GameRenderer.h"
 #include "GameStateBase.h"
-#include <iostream>
 
 class Game;
 class InGameState : public GameStateBase

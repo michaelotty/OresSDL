@@ -1,3 +1,5 @@
+#include <iostream>
+
 #include "InGameState.h"
 
 InGameState::InGameState(Game* game, std::shared_ptr<RenderWrapperBase> render)

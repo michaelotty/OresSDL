@@ -1,11 +1,7 @@
-#include "Game.h"
+#include <SDL.h>
 
 #include "Configs.h"
-
-#include "SDL.h"
-
-#include <iostream>
-
+#include "Game.h"
 #include "SDLRenderWrapper.h"
 
 Game::Game()

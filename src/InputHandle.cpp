@@ -1,7 +1,8 @@
 #include <iostream>
 
-#include "InputHandle.h"
 #include <SDL_events.h>
+
+#include "InputHandle.h"
 
 void InputHandler::HandleEvents()
 {

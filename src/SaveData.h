@@ -3,7 +3,6 @@
 class SaveData
 {
 public:
-	int score;
-	int level;
+    int score;
+    int level;
 };
-

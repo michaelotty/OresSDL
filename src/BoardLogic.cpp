@@ -1,7 +1,8 @@
-#include "BoardLogic.h"
-#include "Configs.h"
 #include <iostream>
 #include <random>
+
+#include "BoardLogic.h"
+#include "Configs.h"
 
 BoardLogic::BoardLogic() { ResetBoard(); }
 

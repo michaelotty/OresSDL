@@ -1,9 +1,10 @@
 #pragma once
+
+#include <memory>
+
 #include "BoardLogic.h"
 #include "Button.h"
 #include "RenderWrapperBase.h"
-#include <memory>
-
 
 class InGameRenderer
 {
