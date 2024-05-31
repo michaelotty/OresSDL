@@ -4,3 +4,5 @@ bin-int
 *.sln
 *.vcxproj
 *.user
+.cache/
+compile_commands.json
